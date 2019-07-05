@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
+
 class DetailsBottom extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
